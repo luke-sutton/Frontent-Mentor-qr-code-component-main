@@ -16,17 +16,6 @@ body {
     margin: 0;
 }
 
-.attribution {
-    font-size: 11px;
-    text-align: center;
-    color: hsl(228, 45%, 44%);
-}
-
-img {
-    width: 300px;
-    border-radius: 25px;
-}
-
 .container {
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
@@ -39,8 +28,19 @@ img {
     align-items: center;
 }
 
+img {
+    width: 300px;
+    border-radius: 25px;
+}
+
 .text-container {
     width: 250px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
 }
 
 p {
